@@ -18,6 +18,7 @@ public class MainClass {
 			// TODO: handle exception
 			e.printStackTrace();
 		}
+		System.out.println("server end");
 	}
 
 }
